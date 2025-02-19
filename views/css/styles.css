@@ -88,9 +88,9 @@ p {
     align-items: center;
     display: flex;
     flex-direction: column;
-    padding: 100;
+    padding: 100px;
     width: 500px;
-    height: 500px;
+    
 }
 
 .grade-image{
@@ -105,5 +105,27 @@ p {
 
 .text{
     color: red;
-    padding-top: 100px;
+    padding: 50px 20px;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    text-align: center;
+}
+
+.link{
+   
+    width: 100%;
+    padding: 10px;
+    background-color: red;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border-radius: 30px;
+}
+
+a{
+    text-decoration: none;
+    color: blue;
 }
