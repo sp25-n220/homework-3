@@ -1,7 +1,14 @@
 {
-  "name": "homework-3",
+  "name": "webserver-joroper",
   "version": "1.0.0",
   "main": "server.js",
+
+  "files": [
+    "server.js",
+    "views/",
+    "README.md",
+    "webfile/"
+  ],
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js"

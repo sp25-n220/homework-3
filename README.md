@@ -5,8 +5,8 @@ This homework assignment is a Node.js web server project. The server calls pages
 
 ### Live link
 
-    [My Webserver](https://homework-3-yv2i.onrender.com)
-
+[My Webserver](https://homework-3-yv2i.onrender.com)
+    
 
 ### How to setup 
 
@@ -25,6 +25,13 @@ This homework assignment is a Node.js web server project. The server calls pages
 - Browser
     - Go to your browser and type in http://localhost:5445
 
+- To install: 
+
+	`npm install -g webserver-joroper`
+
+- After installation: 
+
+    `webserver-joroper`
 
 ### Weekly Recap
 1. fs:
